@@ -3,6 +3,7 @@
 This will be a paragraph of information on the topic.
 
 ## Small List Of Cat Breed's:
+
 - Exotic Shorthair
 - Foldex
 - German Rex
@@ -10,6 +11,6 @@ This will be a paragraph of information on the topic.
 - Highlander
 - Himalayan Persian
 - European Shorthair
-- Egyptian Mau
+- Egyptian Mau 
 
 [Cat Wiki](https://en.wikipedia.org/wiki/List_of_cat_breeds)
