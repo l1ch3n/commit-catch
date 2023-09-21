@@ -1,10 +1,10 @@
-# Cat's
+# Cats
 
 ![Cat](cat.jpg)
 
 Cats are very common, however, most people can not identify or differentiate between different cat breeds. According to various organizations and associations (see cat wiki link below), there are between 45 and 73 recognized cat breeds.
 
-## Small List Of Cat Breed's
+## Partial List Of Cat Breeds
 
 - Exotic Shorthair
 - Foldex
