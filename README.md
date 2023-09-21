@@ -30,7 +30,7 @@
 - Manx
 - Mekong Bobtail
 
-### Attribution's
+### Attributions
 
 [Cat Wiki](https://en.wikipedia.org/wiki/List_of_cat_breeds)
   - [Cat Image](https://en.wikipedia.org/wiki/List_of_cat_breeds#/media/File:Maine_Coon_female.jpg) by [Mueller-rech.muenchen](https://commons.wikimedia.org/wiki/User:Mueller-rech.muenchen)
