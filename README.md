@@ -1,8 +1,10 @@
 # Cat's
 
+![Cat](cat.jpg)
+
 Cats are very common, however, most people can not identify or differentiate between different cat breeds. According to various organizations and associations (see cat wiki link below), there are between 45 and 73 recognized cat breeds.
 
-## Small List Of Cat Breed's:
+## Small List Of Cat Breed's
 
 - Exotic Shorthair
 - Foldex
@@ -28,5 +30,7 @@ Cats are very common, however, most people can not identify or differentiate bet
 - Manx
 - Mekong Bobtail
 
-[Cat Wiki](https://en.wikipedia.org/wiki/List_of_cat_breeds)
+### Attribution's
 
+[Cat Wiki](https://en.wikipedia.org/wiki/List_of_cat_breeds)
+  - [Cat Image](https://en.wikipedia.org/wiki/List_of_cat_breeds#/media/File:Maine_Coon_female.jpg) by [Mueller-rech.muenchen](https://commons.wikimedia.org/wiki/User:Mueller-rech.muenchen)
